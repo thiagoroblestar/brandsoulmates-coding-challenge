@@ -45,14 +45,14 @@ Good luck and happy coding!
 
 How long should this take? Roughly 1 to 2 hours depending on how involved you choose to make it.
 
-Please clone this repository, and make sure [Nadina Gray](https://github.com/nadinagray) has permissions to see repo.
+Please clone this repository, and make sure [Nadina Gray](https://github.com/nadinagray) and our [DevOps account](https://github.com/SoulmatesDevOps) have permissions to see repo.
 
 ## More About Gatsby
 
 To learn more about Gatsby, take a look at the following resources:
 
-    - [Gatsby Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Gatsby API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+- [Gatsby Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+- [Gatsby API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
 ## Bonus Points
 Use SASS and CSS modules. Add tests.
